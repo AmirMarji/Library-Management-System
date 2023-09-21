@@ -2,10 +2,13 @@
 
 ## Books used can be found [here](https://think.cs.vt.edu/corgis/datasets/csv/classics/classics.csv)
 
-## TODO:
+## TODO
 
-- [ ] Create a database schema
-- [ ] Create a database
+### NOTE: only 1 table has been made so far, more will be added as needed and the schema will be updated
+
+- [x] Create a database schema
+- [x] Create a database
+- [ ] fill database with data from csv
 - [ ] Create a database connection
 - [ ] implement search functionality
 - [ ] implement admin functionality
