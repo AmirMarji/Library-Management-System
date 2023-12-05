@@ -1,0 +1,31 @@
+
+body{
+    height: 100vh;
+    margin: 0;
+    display: flex;
+
+}
+
+.container {
+    height: 100%;
+    justify-content: center;
+    text-align: center;
+
+
+    margin: 10%;
+    padding: 10%;
+    max-width: 80%;
+
+    
+  }
+
+  .welcome{
+    position: relative;
+  }
+
+
+  .search-bar{
+    position: relative;
+    margin: auto;
+    padding: auto;
+  }
