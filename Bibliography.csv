@@ -1,4 +1,4 @@
-bibliography.languages,bibliography.title,metadata.downloads,metadata.url,bibliography.author.name,bibliography.publication.month name,bibliography.publication.year
+language,title,metadata_downloads,metadata_url,author_name,publication_month,publication_year
 en,Pride and Prejudice,36576,https://www.gutenberg.org/ebooks/1342,"Austen, Jane",June,1998
 en,The Yellow Wallpaper,26363,https://www.gutenberg.org/ebooks/1952,"Gilman, Charlotte Perkins",November,1999
 en,Alice's Adventures in Wonderland,18882,https://www.gutenberg.org/ebooks/11,"Carroll, Lewis",March,1994
