@@ -9,7 +9,7 @@
 - [x] Create a database schema
 - [x] Create a database
 - [X] fill database with data from csv
-- [ ] Create a database connection
+- [X] Create a database connection
 - [ ] implement search functionality
 - [ ] implement admin functionality
 - [ ] implement add functionality
