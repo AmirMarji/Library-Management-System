@@ -27,7 +27,7 @@ if (isset($_POST['admin'])) {
     <title>index</title>
 </head>
 
-<body style="background-color:cyan;">
+<body style="background-color:#3898ec;">
     <div class="container">
 
         <div class="welcome">
@@ -35,8 +35,8 @@ if (isset($_POST['admin'])) {
         </div>
 
         <div class="search-bar">
-            <label for="booklist" class="form-label">Search for books...</label>
-            <input class="form-control" list="datalistOptions" id="booklist" placeholder="Type to search...">
+            <label for="booklist" class="form-label" >Search for books...</label>
+            <input class="form-control" style="background-color: cyan" list="datalistOptions" id="booklist" placeholder="Type to search...">
 
 
         </div>
