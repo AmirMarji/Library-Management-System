@@ -18,7 +18,10 @@
 </head>
 
 <body>
-    <h1>This page is under construction</h1>
+    <h1>This is my atempt on a Library Managment System.</h1>
+    <p>This project is to help me practice PHP and MySQL.</p>
+    <p>However i am also experimenting with JQuery, AJAX, and Bootstrap. </p>
+    <a href="https://github.com/AmirMarji">My Github Link</a>
 </body>
 
 </html>
